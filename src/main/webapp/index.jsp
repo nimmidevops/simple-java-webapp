@@ -1,4 +1,4 @@
-ion<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Simple Web Application</title>
